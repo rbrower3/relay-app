@@ -1,4 +1,3 @@
-
 ## A mobile app for tracking team progress during long-distance relay races
 
 ### to get up and, ahem, <em>running</em>...
