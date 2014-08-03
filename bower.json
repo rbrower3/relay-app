@@ -1,0 +1,7 @@
+{
+  "name": "RelayApp",
+  "private": "true",
+  "devDependencies": {
+    "underscore": "~1.6.0"
+  }
+}
